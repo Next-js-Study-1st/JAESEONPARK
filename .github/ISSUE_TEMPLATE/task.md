@@ -1,7 +1,7 @@
 ---
-name: Task
+name: 💡 ISSUE TEMPLATE
 about: Next.js 스터디 과제 이슈 템플릿
-title: "[WeekN] "
+title: "[Week 1] 과제 제목"
 labels: ""
 assignees: ""
 ---
