@@ -1,7 +1,7 @@
 # Next.js Study
 Next.js 스터디 과제물을 정리하는 개인 레포입니다.
 
-각 주차별 과제물을 구현하고 기록할 정입니다.
+각 주차별 과제물을 구현하고 기록할 예정입니다.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
