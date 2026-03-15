@@ -1,3 +1,11 @@
+---
+name: Task
+about: Next.js 스터디 과제 이슈 템플릿
+title: "[WeekN] "
+labels: ""
+assignees: ""
+---
+
 ## 📄 이슈 내용
 
 
