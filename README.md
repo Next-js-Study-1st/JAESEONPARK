@@ -1,5 +1,6 @@
 # Next.js Study
 Next.js 스터디 과제물을 정리하는 개인 레포입니다.
+
 각 주차별 과제물을 구현하고 기록할 정입니다.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -8,6 +9,7 @@ Next.js 스터디 과제물을 정리하는 개인 레포입니다.
 
 ## Study Period
 2026.03 ~
+
 총 10주간 진행될 예정
 
 ## Study Topic
